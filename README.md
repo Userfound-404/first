@@ -1,3 +1,3 @@
 # first
 My first repository.
-This is github.
+This is first commit.
